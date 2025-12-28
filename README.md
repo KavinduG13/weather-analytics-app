@@ -2,9 +2,9 @@
 
 A full-stack web application that provides weather analytics with a custom Comfort Index calculation. The app fetches real-time weather data from OpenWeatherMap API, processes it through a proprietary comfort algorithm, and presents the results in an interactive dashboard with authentication via Auth0.
 
-By - Kavindu Karunarathna
-Phone - +94 76 811 8141
-e-mail - kkgeeshan@gmail.com
+- By - Kavindu Karunarathna
+- Phone - +94 76 811 8141
+- e-mail - kkgeeshan@gmail.com
 
 ## Features
 
