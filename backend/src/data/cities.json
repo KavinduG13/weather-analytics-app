@@ -1,0 +1,14 @@
+{
+  "List": [
+    {"CityCode": "1248991", "CityName": "Colombo", "Country": "LK"},
+    {"CityCode": "1850147", "CityName": "Tokyo", "Country": "JP"},
+    {"CityCode": "2644210", "CityName": "Liverpool", "Country": "GB"},
+    {"CityCode": "2988507", "CityName": "Paris", "Country": "FR"},
+    {"CityCode": "2147714", "CityName": "Sydney", "Country": "AU"},
+    {"CityCode": "4930956", "CityName": "Boston", "Country": "US"},
+    {"CityCode": "1796236", "CityName": "Shanghai", "Country": "CN"},
+    {"CityCode": "3143244", "CityName": "Oslo", "Country": "NO"},
+    {"CityCode": "5128581", "CityName": "New York", "Country": "US"},
+    {"CityCode": "2643743", "CityName": "London", "Country": "GB"}
+  ]
+}
