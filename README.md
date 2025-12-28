@@ -2,6 +2,10 @@
 
 A full-stack web application that provides weather analytics with a custom Comfort Index calculation. The app fetches real-time weather data from OpenWeatherMap API, processes it through a proprietary comfort algorithm, and presents the results in an interactive dashboard with authentication via Auth0.
 
+By - Kavindu Karunarathna
+Phone - +94 76 811 8141
+e-mail - kkgeeshan@gmail.com
+
 ## Features
 
 - **Real-time Weather Data**: Fetches current weather conditions for multiple cities
@@ -85,7 +89,7 @@ The Comfort Index is calculated using a weighted average of four key weather fac
 
 **Formula:**
 ```
-Comfort Index = (Temperature Score × 0.4) + (Humidity Score × 0.3) + (Wind Speed Score × 0.2) + (Cloudiness Score × 0.1)
+Comfort Index = (Temperature Score * 0.4) + (Humidity Score * 0.3) + (Wind Speed Score * 0.2) + (Cloudiness Score * 0.1)
 ```
 
 ### Individual Factor Scoring
@@ -213,15 +217,3 @@ The application uses NodeCache for in-memory caching with the following design:
 - `GET /api/health` - Health check
 - `GET /api/weather` - Get weather data for all cities (requires authentication)
 - `GET /api/auth/status` - Check authentication status
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## License
-
-ISC License
